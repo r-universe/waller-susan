@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "envi"]
+	path = envi
+	url = https://github.com/waller-susan/envi
+	shallow = true
+	registered = true
+[submodule "gateR"]
+	path = gateR
+	url = https://github.com/waller-susan/gater
+	shallow = true
+	registered = true

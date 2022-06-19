@@ -1,0 +1,10 @@
+[
+  {
+    "package": "envi",
+    "oncran": true
+  },
+  {
+    "package": "gateR",
+    "oncran": true
+  }
+]
